@@ -1,4 +1,4 @@
-podcast
-=======
+Podcast codigos de ejemplo
+==========================
 
-code for podcast episodes
+Este es el repositorio donde se encuentran los codigos usados en cada episodio
